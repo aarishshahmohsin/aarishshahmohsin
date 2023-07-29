@@ -5,7 +5,7 @@
   
 - interested in **web-development**
 - pursuing Bachelors in **Mechanical Engineering**.
-- react at **aarishshahmohsin50@gmail.com**
+- mail at **aarishshahmohsin50@gmail.com**
 
 <h2 align="left"> / connect /</h2>
 <p align="left">
