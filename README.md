@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="linkedin" height="30" width="40" /></a>
   
 </p>
 
@@ -27,9 +27,9 @@
   
   
   - <h5> currently learning </h5>
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/>
-  <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt = "go" />
+        <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/>
+        <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt = "go" />
   
 - <h4> frameworks & libraries </h4>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
@@ -54,9 +54,7 @@
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="arch" >
 
-        </br></br>
-
-<br/>
+<h2>/ stats /</h2>
 <p align="left">
   <!-- <a href="https://abhigyantrips.dev/"> -->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarishshahmohsin&show_icons=true&theme=github_dark&hide_border=true" />
