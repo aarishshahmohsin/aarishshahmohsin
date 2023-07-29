@@ -4,23 +4,18 @@
 <h2> / about me /</h2>
   
 - interested in **web-development**
-- pursuing Bachelors in Mechanical Engineering.
-- <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+- pursuing Bachelors in **Mechanical Engineering**.
+- mail at aarishshahmohsin50@gmail.com
+
+<h2 align="left"> / connect </h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="20" width="30" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="20" width="30" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="20" width="30" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="20" width="30" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="20" width="30" /></a>
+      alt="adam pithewan" height="30" width="40" /></a>
+   <a mailto="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="blank"><img align="center"
+      src="https://img.icons8.com/ios/50/000000/new-post--v1.png"
+      alt="adam pithewan" height="30" width="40" /></a>
+  
 </p>
 
 <br/>
