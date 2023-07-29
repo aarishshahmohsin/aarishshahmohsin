@@ -7,7 +7,7 @@
 - pursuing Bachelors in **Mechanical Engineering**.
 - mail at aarishshahmohsin50@gmail.com
 
-<h2 align="left"> / connect </h2>
+<h2 align="left"> / connect /</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
