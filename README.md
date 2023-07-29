@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Aarish Shah Mohsin</h2>
-<h4 align="center">Student at <a target="_blank" href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology">ZHCET, AMU, Aligarh.</a></h4>
+<h4 align="center">Student at <a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="_blank" >ZHCET, AMU, Aligarh.</a></h4>
 
 <h2> / about me /</h2>
   
@@ -9,7 +9,7 @@
 
 <h2 align="left"> / connect /</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/aarish-shah-mohsin-91aa1965/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
   
