@@ -4,7 +4,7 @@
 <h2> / about me /</h2>
   
 - interested in **web-development**
-- pursuing Bachelors in **Mechanical Engineering**.
+  - pursuing Bachelors in **Artificial Intelligence**.
 - mail at **aarishshahmohsin50@gmail.com**
 
 <h2 align="left"> / connect /</h2>
