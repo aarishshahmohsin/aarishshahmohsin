@@ -59,7 +59,7 @@
 <p align="left">
   <!-- <a href="https://abhigyantrips.dev/"> -->
    <picture><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarishshahmohsin&show_icons=true&theme=github_dark&hide_border=true" /></picture>
-    <picture> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarishshahmohsin&theme=github-dark-blue&hide_border=true" /></picture>
+<!--     <picture> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarishshahmohsin&theme=github-dark-blue&hide_border=true" /></picture> -->
   <!-- </a> -->
 </p>
 <br>
