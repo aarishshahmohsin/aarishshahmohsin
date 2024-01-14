@@ -22,7 +22,7 @@
 <!--     <picture> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarishshahmohsin&theme=github-dark-blue&hide_border=true" /></picture> -->
   <!-- </a> -->
 </p>
-<p align="right">
+<p align="left">
 <!-- <a href="https://visitcount.itsvg.in"> -->
   <img src="https://visitcount.itsvg.in/api?id=aarishshahmohsin123&label=Profile%20Views&icon=0&pretty=false" />
 <!-- </a> -->
