@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Aarish Shah Mohsin</h2>
-<h4 align="center">Student at <a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="_blank" >ZHCET, AMU, Aligarh.</a></h4>
 
 <h2> / about me /</h2>
   
