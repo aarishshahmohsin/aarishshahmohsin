@@ -23,7 +23,7 @@
 </p>
 <p align="left">
 <!-- <a href="https://visitcount.itsvg.in"> -->
-  <img src="https://visitcount.itsvg.in/api?id=aarishshahmohsin123&label=Profile%20Views&icon=0&pretty=false" />
+  <picture><img src="https://visitcount.itsvg.in/api?id=aarishshahmohsin123&label=Profile%20Views&icon=0&pretty=false" /></picture>
 <!-- </a> -->
 </p>
 <br>
